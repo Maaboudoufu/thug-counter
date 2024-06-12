@@ -1,9 +1,17 @@
 body {
     background-image: url("thug.jpg");
     background-size: cover;
+    background-repeat:no-repeat;
     font-family: Ubuntu;
     font-weight: bold;
     text-align: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    
 }
 
 h1 {
